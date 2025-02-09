@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://tech-chronicles.onrender.com](https://tech-chronicles.onrender.com)
 
-- 💬 Ask me about **react, javascript, java, SQL**
+- 💬 Ask me about **react, javascript, java, SQL, Angular**
 
 - 📫 How to reach me **maheshmate2627@gmail.com**
 
